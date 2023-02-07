@@ -1,5 +1,6 @@
 
 ### Olá Eu sou o Pedro 👋
+
 -🔭 Eu estou estudando HMTL5/CSS/Java 
 
 -🌱 Procuro minha primeira vaga para desenvolvedor Web
